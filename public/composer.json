@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Contacts\\": "app/Contacts"
+    }
+
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  }
+}
